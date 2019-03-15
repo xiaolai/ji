@@ -55,7 +55,7 @@
 
 ## 那你应该如何感谢我？
 
-不要传播内容，而是把[网络链接](https://github.com/xiaolai/jjdhyd)转发给想要分享的人，让她们或他们自己来看。
+不要传播内容，而是把[网络链接](https://github.com/xiaolai/ji)转发给想要分享的人，让她们或他们自己来看。
 
 我确信真正有意义的内容一定会通过口碑慢慢传播最终爆发的——之前的《[把时间当作朋友](https://github.com/xiaolai/times-as-a-friend)》就是如此。
 
