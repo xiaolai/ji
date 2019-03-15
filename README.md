@@ -66,7 +66,7 @@
 
 ## 写这本“书”的后果是什么？
 
-* 这本“书”的传播一定比《[把时间当作朋友](https://github.com/xiaolai/times-as-a-friend》更广。
+* 这本“书”的传播一定比《[把时间当作朋友](https://github.com/xiaolai/times-as-a-friend)》更广。
 * 很难再有人好意思冲过来激动地大喊：“李老师，我是你的粉丝！”
 
 ##  目录
